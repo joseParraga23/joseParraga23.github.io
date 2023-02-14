@@ -37,6 +37,9 @@ body{
 .navBar__img--login{
     border-radius: 5em;
 }
+.navBar__img--menu{
+    width: 1em;
+}
 .Google{
     width: 100%;
     display:flex;
